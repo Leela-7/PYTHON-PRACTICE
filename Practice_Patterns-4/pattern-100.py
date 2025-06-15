@@ -1,4 +1,5 @@
-for i in range(0,5):
-  for j in range(0,5):
-    print("*",end="")
+n=5
+for i in range(n):
+  for j in range(n):
+    print("* ",end="")
   print()  # Print asterisks in a 5x5 grid
