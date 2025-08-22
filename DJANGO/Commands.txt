@@ -1,0 +1,17 @@
+mkdir = create a Folder
+
+cd..  = previous folder
+
+cd filename = move to that folder
+
+tree /f  = files structure
+
+py --version = knows what version that python is installed
+
+py -m django --version  = Djangos version
+
+django-admin startproject projectname  = Creates project with urls.py,settings.py...
+
+py manage.py runserver  = Execution that gives link to the django project
+
+py manage.py startapp appname  = give app name which have views.py,models.py,admin.py...
